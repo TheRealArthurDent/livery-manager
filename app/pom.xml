@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io.github.therealarthurdent.hello</groupId>
-        <artifactId>hello-github</artifactId>
+        <groupId>io.github.therealarthurdent.iracing</groupId>
+        <artifactId>livery-manager</artifactId>
         <version>0.0.1</version>
     </parent>
 
